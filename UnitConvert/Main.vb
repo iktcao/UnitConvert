@@ -193,7 +193,7 @@
 
     '打开关于界面
     Private Sub tsbAbout_Click(sender As Object, e As EventArgs) Handles tsbAbout.Click
-        Using objAbout As New About
+        Using objAbout As New AboutBox
             objAbout.ShowDialog(Me)
         End Using
     End Sub

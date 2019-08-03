@@ -8,12 +8,12 @@ Imports System.Runtime.InteropServices
 
 '查看程序集特性的值
 
-<Assembly: AssemblyTitle("单位换算")>
-<Assembly: AssemblyDescription("常用工程单位换算工具")>
-<Assembly: AssemblyCompany("百尺")>
-<Assembly: AssemblyProduct("单位换算")>
+<Assembly: AssemblyTitle("简陋单位换算")>
+<Assembly: AssemblyDescription("一款简陋的常用工程单位换算工具")>
+<Assembly: AssemblyCompany("GPEC")>
+<Assembly: AssemblyProduct("简陋单位换算")>
 <Assembly: AssemblyCopyright("Copyright©2019")>
-<Assembly: AssemblyTrademark("BATCH")>
+<Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' 方法是按如下所示使用“*”: :
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("1.0.0.1")>
+<Assembly: AssemblyFileVersion("1.0.0.1")>

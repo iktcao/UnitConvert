@@ -1,6 +1,6 @@
-﻿Public NotInheritable Class About
+﻿Public NotInheritable Class AboutBox
 
-    Private Sub About_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+    Private Sub AboutBox_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         ' 设置此窗体的标题。
         Dim ApplicationTitle As String
         If My.Application.Info.Title <> "" Then
